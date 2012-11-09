@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tel\'Box</string>
+	<string-array name="Random_array">        
+		<item>C\'est francais, pas mal hein?</item>        
+		<item>Bye guys !</item>        
+		<item>*/*/*/*/*/</item>        
+		<item>1+1=3 ?!</item>
+		<item>Quand tu joues au Go.. faut être aware !</item>
+		<item>1+1=2 !</item>
+		<item>Le playboy des fonds marins !</item>
+		<item>Cette app n\'est pas une app sur le cyclimse ...</item>
+		<item>C\'est tout pour aujourd\'hui !</item>
+		<item>Vous savez parler en plissant le visage ?</item>
+		<item>Tu n\'es vraiment pas très sympa !</item>
+		<item>Yep Yep Yep Yep</item>
+		<item>J\'aime bien dire Yep !</item>
+		<item>Il faut pomper pour vivre et donc vivre pour pomper</item>
+		<item>Programme codé en 20 lignes !</item>
+		<item>Il vaut mieux pomper même s\'il ne se passe rien que de risquer qu\'il se passe quelque chose de pire en ne pompant pas.</item>
+		<item>Fatal Error</item> 
+		<item>Error 404</item> 
+		<item>Andréi n est pas un OS open source !</item> 
+		<item>Tout avantage a ses inconvénients et réciproquement</item>
+		<item>All developers and events in this app – even those based on real people – are entirely fictional. All celebrity voices are impersonated – poorly. That app contains coarse language and due to its content it should not be viewed by anyone.</item>        
+		<item>Les calicots sont dans la diligence !</item>
+		<item>Han ?</item>
+		<item>Tu bois de la Stella Artois, je ne pense pas.</item>    
+		<item>Qu\'allez vous faire ?</item>
+		<item>Ta nouvelle drogue, ta nouvelle dépendance...</item>
+		<item>Jme défoule sur toi comme la maladie mangeuse de chair !</item>
+		<item>Présament je mange du poulet, rien a voir avec la maladie mangeuse de chair que c\'est le boeuf !</item>
+		<item>L\'extreme poussé a fond : )</item>
+		<item>Ah non mais attention quand je parle de l\'enveloppe tu vois, je parle pas l\'enveloppe que tu envoies par la poste. Je parle de l\'enveloppe que tu vois. Celle qui enveloppe tout. Les paquets de biscuits, les sachets de cocaïne, ton esprit, etc ... Non, l\'enveloppe c\'est vraiment global.. Mais uniquement liée au spirit généralement. Oui alors un biscuit tu me diras ça n\'a pas de spirit, c\'est juste un biscuit. Mais avant, c\'était du lait, des oeufs. Et dans les oeufs, il y a la vie potentielle... Le potential life dans une coquille, une enveloppe ... qui elle même était contenu dans la poule . eh oui... Non vraiment tout ça c\'est une question d\'awareness ... et puis même si le biscuit est physiquement différent d\'une bouteille de lait, d\'une poule ... il subsiste le spirit de la bouteille et de la poule dans le biscuit ... et ça toi tu le ressens quand tu le manges. Et que parfois c\'est bon parfois c\'est pas bon. 
+		C\'est pour ça que j\'ai fais des films avec des réplicants. Pour montrer que parfois tout se ressemble physiquement (l\'enveloppe), mais que le spirit est totally différent ... il y a le mec gentil, le mec pourri... et tout ça c\'est moi. Et oui ... Et en plus, c est moi ! Car moi je suis acteur ! Alors quand je joue un rôle, il y a le personnage, son répliquant ..et moi. 
+		Donc, on est deux plus un, et c\'est moi. Donc un. Donc quand il y a un gentil, un méchant, il y a aussi moi avec mon caractère ... quand tu fais le calcul tu obtiens ce que je suis. Alors après il faut intégrer tout ça dans LES environnements et alors ça se complexifie. Car quand je suis dans ma Mercedes je suis un violent roader ! Ou un dead drunk driver ! Mais sur le tournage je suis parfois répliquant. Alors quand je remonte dans ma Mercedes je ne suis plus un répliquant. Il ne faut pas se tromper .... Tu comprends?</item>
+		<item>Plus addictif que Minecraft !</item>
+		<item>Y\'en a qui ont essayé, ils ont eu des problèmes</item>
+		<item>Version iPod coming soon...</item>
+		<item>Bouh !</item>
+		<item>Gotta Get Down On Friday</item>
+		<item>Version payante coming soon...</item>
+		<item>Le jeu d\'un mec qui se sent pas bien.</item>
+		<item>Tu es colmneétpemt bruroé !</item>
+		<item>Va voir les crédits avant de quitter.</item>
+		<item>getRandom(trucMarrant);</item>
+		<item>Une application sponsorisée par la bonne humeur et la joie.</item>
+		<item>Un jeu sponsorisé par Kronenbourg.</item>
+		<item>L\'application préférée de François Fiocre.</item>
+		<item>L\'application des gens qui sont jamais contents.</item>
+		<item>L\'application des gens qui aiment cappser.</item>
+		<item>Le jeu de référence pour les pas doués.</item>
+		<item>Le jeu des mecs qui veulent pas montrer leur cul.</item>
+		<item>Vous ne quitterez PAS !</item>
+		<item>Are you talking to me ?</item>
+		<item>C\'est quoi un SOHCAHTOA ?</item>
+		<item>La seule application qui n\'énerve pas Nicolas, ou pas...</item>
+		<item>L\'application qu\'il faut pas montrer à Tania Blanc.</item>
+		<item>MADNESS ? THIS IS TEL\'BOX !</item>
+		<item>Vous faites bien de partir, vous n\'avez pas suffisamment de classe pour utiliser cette application.</item>
+		<item>L\'application des mecs relous.</item>
+		<item>Tapez Bouton Actualiser dans Google Image. ;-)</item>
+		<item>Joyeux Noël.</item>
+		<item>Bon anniversaire.</item>
+		<item>Il est temps d\'aller se coucher.</item>
+		<item>Check it out now !</item>
+		<item>Hmm il pleut.</item>
+		<item>Maintenant faut passer à la caisse.</item>
+		<item>\"Le truc marrant se place ici.\"</item>
+		<item>Ca va John ?</item>
+		<item>Ceci est un texte, composé de mots, composés de lettres, composés de traits, composés de pixels, comp...</item>
+		<item>-_-\" Fros fay. -_-\"</item>
+		<item>O_o Wuzzz ?</item>
+		<item>P_P Yeah man!</item>
+		<item>d-_-b Je sais que tu aimes ma musique.</item>
+		<item>That\'s what I\'m talking about!</item>
+		<item>L\'application qui ne tue pas ta batterie en 2 min</item>
+		<item>If you have enjoyed this app, why not go and see \"La Notte\"?</item>
+		<item>Plus d\'un milliard de textes de sortie différents</item>
+		<item>Always Look On The Bright Side Of Life</item>
+		<item>The World Is Yours</item>
+		<item>No Future</item>
+		<item>We Did It Ourselves</item>
+		<item>Mangez des pommes!</item>
+		<item>L\'application préférée de Nacef Berkoukchi.</item>
+		<item>L\'application préférée de Salim Benayoune.</item>
+		<item>L\'application qui rend heureux.</item>
+	</string-array>
+</resources>
+
+   
+
+
